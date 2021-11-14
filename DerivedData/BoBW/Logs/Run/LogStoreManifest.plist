@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>49A9F283-89BA-4824-AB8D-C92AE218829D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>49A9F283-89BA-4824-AB8D-C92AE218829D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BoBW project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BoBW</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BoBW</string>
+			<key>timeStartedRecording</key>
+			<real>656824652.95597506</real>
+			<key>timeStoppedRecording</key>
+			<real>656825004.88147902</real>
+			<key>title</key>
+			<string>Run BoBW</string>
+			<key>uniqueIdentifier</key>
+			<string>49A9F283-89BA-4824-AB8D-C92AE218829D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

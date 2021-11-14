@@ -1,0 +1,58 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "a23b26e846f811bed2fc86fc47daf7d355a3d11369c3666c05c163f25b5e73b9"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Tim/K6/SVC/BoBW/DerivedData/BoBW/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Tim/K6/SVC/BoBW/DerivedData/BoBW/Build/Products",
+      "derivedDataPath" : "/Users/Tim/K6/SVC/BoBW/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Tim/K6/SVC/BoBW/DerivedData/BoBW/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Tim/K6/SVC/BoBW/DerivedData/BoBW/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Tim/K6/SVC/BoBW/DerivedData/BoBW/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone9,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.8",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "6341a64368fa00ab1b991554a3e02aefde121861",
+          "TARGET_DEVICE_MODEL" : "iPhone9,3",
+          "TARGET_DEVICE_OS_VERSION" : "14.8",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
