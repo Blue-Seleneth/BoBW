@@ -71,7 +71,4 @@
 }
 
 @end
-// useless comment
-// catastrophic, soul-crushing failure
-// Schrodinger's cat must die  
-// why do I keep doing this?
+// bad stuff deleted 202111142048
